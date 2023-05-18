@@ -58,10 +58,10 @@ this trail possible!</font></p>
 <p align="left">
 <a href="http://www.grouseland.com/"><img border="0" src="./img/gtlogo.gif" width="171" height="171"></a></p>
 <p align="left">
-<font color="#FFFFFF" size="5"><a href="http://www.fatjimmys.com/htm">Fat
+<font color="#FFFFFF" size="5"><a href="http://www.fatjimmys.com">Fat
 Jimmy's</a></font></p>
 <p align="left">
-<b><font face="Vrinda" size="5"><a href="http://www.fatjimmys.com/htm">
+<b><font face="Vrinda" size="5"><a href="http://www.fatjimmys.com">
 <img border="0" src="./img/fatjimmy.jpg" width="144" height="135"></a>&nbsp;&nbsp;&nbsp;
 <font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font>
 <font face="Vrinda" size="4">More info&nbsp;&nbsp; History&nbsp; Directions&nbsp;
