@@ -8,6 +8,8 @@
 
 <title>Pike 2 Bike</title>
 
+<body bgcolor="#000000" link="#FFFFFF" vlink="#CCFFFF" alink="#0000FF">
+
 <p align="center"><b><font face="Impact" size="7" color="#FFFF00">Pike 2 Bike</font></b></p>
 <p align="center">&nbsp;</p>
 <p align="center"><b><font face="Impact" size="7" color="#FF0000">Abandoned.</font></b></p>
