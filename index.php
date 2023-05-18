@@ -50,32 +50,32 @@ their own risk!</b></font></p>
 <font size="5" color="#FFFF00">These are the companies that are helping us make
 this trail possible!</font></p>
 <p align="left">
-<font size="5" color="#FFFF00"><a href="https://web.archive.org/web/20120203201638/http://www.gfnet.com/">Gannet Fleming</a>&nbsp;&nbsp;</font></p>
+<font size="5" color="#FFFF00"><a href="http://www.gfnet.com/">Gannet Fleming</a>&nbsp;&nbsp;</font></p>
 <p align="left">
-<a href="https://web.archive.org/web/20120203201638/http://www.gfnet.com/"><img border="0" src="./img/GF_logo.jpg" width="288" height="50"></a><font size="5" color="#FFFF00">&nbsp;</font></p>
+<a href="http://www.gfnet.com/"><img border="0" src="./img/GF_logo.jpg" width="288" height="50"></a><font size="5" color="#FFFF00">&nbsp;</font></p>
 <p align="left">
-<font size="5" color="#FFFF00"><a href="https://web.archive.org/web/20120203201638/http://www.pike2bike.org/www,grouseland.com">Grouseland Tours</a></font></p>
+<font size="5" color="#FFFF00"><a href="http://www.pike2bike.org/www,grouseland.com">Grouseland Tours</a></font></p>
 <p align="left">
-<a href="https://web.archive.org/web/20120203201638/http://www.grouseland.com/"><img border="0" src="./img/gtlogo.gif" width="171" height="171"></a></p>
+<a href="http://www.grouseland.com/"><img border="0" src="./img/gtlogo.gif" width="171" height="171"></a></p>
 <p align="left">
-<font color="#FFFFFF" size="5"><a href="https://web.archive.org/web/20120203201638/http://www.fatjimmys.com/htm">Fat
+<font color="#FFFFFF" size="5"><a href="http://www.fatjimmys.com/htm">Fat
 Jimmy's</a></font></p>
 <p align="left">
-<b><font face="Vrinda" size="5"><a href="https://web.archive.org/web/20120203201638/http://www.fatjimmys.com/htm">
+<b><font face="Vrinda" size="5"><a href="http://www.fatjimmys.com/htm">
 <img border="0" src="./img/fatjimmy.jpg" width="144" height="135"></a>&nbsp;&nbsp;&nbsp;
 <font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font>
 <font face="Vrinda" size="4">More info&nbsp;&nbsp; History&nbsp; Directions&nbsp;
 Contact us&nbsp; Join us&nbsp; Guided Tours&nbsp;&nbsp; Availability&nbsp;&nbsp;
 Other biking opportunities </font><font face="Vrinda" size="5">&nbsp;&nbsp;&nbsp;&nbsp; </font>
 </font></b></p>
-<p align="left"><b><font face="Vrinda" size="3" color="#FFFFFF"><a href="https://web.archive.org/web/20120203201638/http://www.pike2bike.org/index.htm">Home</a>&nbsp;
-<a href="https://web.archive.org/web/20120203201638/http://www.pike2bike.org/p2binfopage.htm">More info</a>&nbsp;&nbsp; <a href="https://web.archive.org/web/20120203201638/http://www.pike2bike.org/history.htm">History</a>&nbsp;
-<a href="https://web.archive.org/web/20120203201638/http://www.pike2bike.org/directions.htm">Directions&nbsp;</a> <a href="https://web.archive.org/web/20120203201638/http://www.pike2bike.org/contact.htm">Contact
-us&nbsp;</a> <a href="https://web.archive.org/web/20120203201638/http://www.pike2bike.org/joinus.htm">Join us&nbsp;</a> <a href="https://web.archive.org/web/20120203201638/http://www.pike2bike.org/guidedtous.htm">Guided
-Tours&nbsp;</a>&nbsp; <a href="https://web.archive.org/web/20120203201638/http://www.pike2bike.org/availability.htm">Availability&nbsp;</a>&nbsp;
-<a href="https://web.archive.org/web/20120203201638/http://www.pike2bike.org/opportunities.htm">Other
-biking opportunities</a>&nbsp; <a href="https://web.archive.org/web/20120203201638/http://www.pike2bike.org/activities.htm">Activities</a></font></b>
-<font size="2" color="#FFFFFF"><b>&nbsp;<a href="https://web.archive.org/web/20120203201638/http://www.pike2bike.org/advisory.htm">Advisory
+<p align="left"><b><font face="Vrinda" size="3" color="#FFFFFF"><a href="http://www.pike2bike.org/index.htm">Home</a>&nbsp;
+<a href="http://www.pike2bike.org/p2binfopage.htm">More info</a>&nbsp;&nbsp; <a href="http://www.pike2bike.org/history.htm">History</a>&nbsp;
+<a href="http://www.pike2bike.org/directions.htm">Directions&nbsp;</a> <a href="http://www.pike2bike.org/contact.htm">Contact
+us&nbsp;</a> <a href="http://www.pike2bike.org/joinus.htm">Join us&nbsp;</a> <a href="http://www.pike2bike.org/guidedtous.htm">Guided
+Tours&nbsp;</a>&nbsp; <a href="http://www.pike2bike.org/availability.htm">Availability&nbsp;</a>&nbsp;
+<a href="http://www.pike2bike.org/opportunities.htm">Other
+biking opportunities</a>&nbsp; <a href="http://www.pike2bike.org/activities.htm">Activities</a></font></b>
+<font size="2" color="#FFFFFF"><b>&nbsp;<a href="http://www.pike2bike.org/advisory.htm">Advisory
 Committee</a></b></font></p>
 <p align="left"><img src="./img/Count.cgi"></p>
 <p align="left"><font face="Arial" size="1" color="#808080">This trail is
